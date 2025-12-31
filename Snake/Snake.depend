@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1767045222 source:c:\travail\projet snake.io\snake\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1767045159 c:\travail\projet snake.io\snake\snake.h
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+
+1767045159 source:c:\travail\projet snake.io\snake\snake.cpp
+	"snake.h"
+
