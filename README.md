@@ -1,1 +1,1 @@
-# jeu-du-serpent-snake-
+# jeu du serpent
